@@ -126,7 +126,7 @@ keywords: "political science, data analysis, European Union, public opinion"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-#navbar-col: "#EAEAEA"
+navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -142,7 +142,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 navbar-img: "/assets/img/geometric-waves-small.png"
-footer-img: "/assets/img/geometric-waves-small.png"
+#footer-img: "/assets/img/geometric-waves-small.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
