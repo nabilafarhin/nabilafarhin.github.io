@@ -21,9 +21,9 @@ author: Francesco Visconti
 
 navbar-links:
   About Me: "aboutme"
-  Research:
-  Teaching:
-  CV:
+  Research: "research"
+  Teaching: "teaching"
+  CV: "cv"
 
 ################
 # --- Logo --- #
