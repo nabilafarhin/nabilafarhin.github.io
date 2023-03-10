@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Francesco Visconti
 
 # Your name to show in the footer
-author: Some Person
+author: Francesco Visconti
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -51,19 +51,19 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  facebook: deanattali
+  github: francescovisconti
+  twitter: fvisc0
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: fvisconti
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: 1166643341
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -71,8 +71,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0001-7672-4433
+  google-scholar: CdHzHt0AAAAJ
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
