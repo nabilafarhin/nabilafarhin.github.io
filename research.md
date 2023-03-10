@@ -4,7 +4,7 @@ title: Research
 subtitle:
 ---
 
-##Research statement##
+## Research statement
 
 I am currently engaged in the study of public opinion attitudes towards European integration, with a particular focus on support for solidarity policies. This has become prominent in light of the various crises experienced by the EU in the last decades, taking into account the conflicts that these have brought to the forefront, both between countries and within countries.
 First, I have worked on the determinants and consequences of solidarity towards European states or citizens, for example, whether attitudes towards solidarity have consequences in terms of electoral behavior. Secondly, I have focused on Europolitanism, a European form of transnationalism, to study its consequences in terms of attitudes, by showing that transnational experiences reduce fears and promote the inclusion of immigrants, and political behavior (transnationalism promotes greater participation in European politics and favors mobilisation for green and left-wing parties).
