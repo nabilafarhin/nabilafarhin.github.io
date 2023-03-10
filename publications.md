@@ -92,6 +92,6 @@ in Conti, N. and Marangoni F. _The challenge of coalition government: The Italia
 
 * Visconti, F. (2016), _ResponsiveGov Inter-Coders Reliability Documents_, University of Leicester: ResponsiveGov. [Available here](https://www.sciencespo.fr/centre-etudes-europeennes/en/responsivegov-eu/data/).
 
-* AA. VV. _La nuova classe politica in Europa_, CiRCAP Research News 2014, editor Luca Verzichelli, _Circap research News_, Available: [Available here](http://www.circap.org/uploads/1/8/1/6/18163511/circap_research_news_150914_web.pdf](https://www.circap.unisi.it/wp-content/uploads/sites/67/2022/07/circap_research_news_150914_web.pdf).
+* AA. VV. _La nuova classe politica in Europa_, CiRCAP Research News 2014, editor Luca Verzichelli, _Circap research News_, [Available here](https://www.circap.unisi.it/wp-content/uploads/sites/67/2022/07/circap_research_news_150914_web.pdf).
 
 
