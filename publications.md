@@ -25,7 +25,7 @@ subtitle:
 	
  * Visconti, F. (2018)  The legislative representation of public opinion policy priorities in Italy], Italian Political Science Review/Rivista Italiana Di Scienza Politica, 307-326. doi: [10.1017/ipo.2018.4](https://doi.org/10.1017/ipo.2018.4).
 	
-* Borghetto, E., Visconti, F. and Michieli, M. (2017) Government Agenda-Setting in Italian Coalitions. Testing the Partisan Hypothesis Using Italian Investiture Speeches 1979--2014], in _Rivista Italiana di Politiche Pubbliche_, 2/2017, pp. 193-220, doi: [10.1483/87214][https://doi.org/10.1483/87214].
+* Borghetto, E., Visconti, F. and Michieli, M. (2017) Government Agenda-Setting in Italian Coalitions. Testing the Partisan Hypothesis Using Italian Investiture Speeches 1979--2014], in _Rivista Italiana di Politiche Pubbliche_, 2/2017, pp. 193-220, doi: [10.1483/87214](https://doi.org/10.1483/87214).
 	
 
 ## Chapters
@@ -65,7 +65,7 @@ in Conti, N. and Marangoni F. _The challenge of coalition government: The Italia
 
 * Pellegata, A., Visconti, F. (2021), The electoral consequences of European solidarity, _LSE Blog EUROPP_, [Available here](https://blogs.lse.ac.uk/europpblog/2021/11/03/the-electoral-consequences-of-european-solidarity//).
 
-* Kyriazi, A., Visconti, F. (2021), Trasnational citizens have more engagement with EU politics, _LSE Blog EUROPP_, [Available here](Available here](https://blogs.lse.ac.uk/europpblog/2021/10/20/transnational-citizens-have-more-engagement-with-eu-politics/).
+* Kyriazi, A., Visconti, F. (2021), Trasnational citizens have more engagement with EU politics, _LSE Blog EUROPP_, [Available here](https://blogs.lse.ac.uk/europpblog/2021/10/20/transnational-citizens-have-more-engagement-with-eu-politics/).
 
 * Pellegata, A., Visconti, F. (2020), Sette su dieci dicono sì al governo. Da oggi il gioco si fa serio. _L'Economia - Corriere della Sera_, 4 May 2020. [Available here](https://www.pressreader.com/italy/l-economia/20200504/281595242696537).
 
