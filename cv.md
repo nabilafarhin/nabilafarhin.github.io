@@ -5,4 +5,4 @@ title: Curriculum Vitae
 subtitle:
 ---
 
-[CV](assets/pdf/francesco_visconti.pdf)
+[Click Here](assets/pdf/francesco_visconti.pdf)
