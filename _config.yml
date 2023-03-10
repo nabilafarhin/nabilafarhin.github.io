@@ -126,7 +126,7 @@ keywords: "political science, data analysis, European Union, public opinion"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#ADD8E6"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -141,7 +141,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/6525.png"
+#navbar-img: "/assets/img/6525.png"
 footer-img: "/assets/img/6525.png"
 #page-img: "/assets/img/43475.jpg"
 
