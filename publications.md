@@ -84,12 +84,14 @@ in Conti, N. and Marangoni F. _The challenge of coalition government: The Italia
 
 * Donati, N., Pellegata, A., Visconti, F. (2021), _European solidarity at a crossroads. Citizen views of the future of the European Union_, REScEU report. [Available here](http://www.euvisions.eu/wp-content/uploads/2021/10/mass_survey_report_2019-1.pdf).
 
-* Visconti, F. (2018) Attitudes towards the EU and solidarity. The REScEU ITANES survey Italian elections 2018], REScEU Working Paper Series (ISSN 2531-9159), Department of Social and Political Sciences, Università degli Studi di Milano, October 2018.
+* Visconti, F., Pellegata, A. (2019), _The REScEU 2019 Mass Survey Codebook_. REScEU Working Paper Series (ISSN 2531-9159), [Available here](https://resceu.eu/publications/working-papers/the-resceu-2019-mass-survey-codebook.html).
 
-* Visconti, F. (2018) A dimensional analysis of the four conflicts using REScEU 2016 mass survey attitudinal data], REScEU Working Paper Series (ISSN 2531-9159), Department of Social and Political Sciences, Università degli Studi di Milano, May 2018.
+* Visconti, F. (2018) Attitudes towards the EU and solidarity. The REScEU ITANES survey Italian elections 2018], REScEU Working Paper Series (ISSN 2531-9159), Department of Social and Political Sciences, Università degli Studi di Milano, October 2018. [Available here](https://resceu.eu/publications/working-papers/wp-10-2018-attitudes-towards-eu-and-solidarity-resceu-working-paper-series.html).
 
-* Visconti, F. (2016), _ResponsiveGov Inter-Coders Reliability Documents_, Leicester: ResponsiveGov, Available at: [responsivegov.eu/data](http://responsivegov.eu/images/documents/ResponsiveGov\%20Coding\%20Procedure\%20Training\%20and\%20Reliability\%20Scores.pdf)
+* Visconti, F. (2018) A dimensional analysis of the four conflicts using REScEU 2016 mass survey attitudinal data], REScEU Working Paper Series (ISSN 2531-9159), Department of Social and Political Sciences, Università degli Studi di Milano, May 2018. [Available here](https://resceu.eu/publications/working-papers/wp-05-2018-a-dimensional-analysis-of-the-four-conflicts-using-receu-2016-mass-survey-attitudinal-data.html).
 
-* AA. VV. _La nuova classe politica in Europa_, CiRCAP Research News 2014, editor Luca Verzichelli, _Circap research News_, Available: [Available here](http://www.circap.org/uploads/1/8/1/6/18163511/circap_research_news_150914_web.pdf).
+* Visconti, F. (2016), _ResponsiveGov Inter-Coders Reliability Documents_, University of Leicester: ResponsiveGov. [Available here](https://www.sciencespo.fr/centre-etudes-europeennes/en/responsivegov-eu/data/).
+
+* AA. VV. _La nuova classe politica in Europa_, CiRCAP Research News 2014, editor Luca Verzichelli, _Circap research News_, Available: [Available here](http://www.circap.org/uploads/1/8/1/6/18163511/circap_research_news_150914_web.pdf](https://www.circap.unisi.it/wp-content/uploads/sites/67/2022/07/circap_research_news_150914_web.pdf).
 
 
