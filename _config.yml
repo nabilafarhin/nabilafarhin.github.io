@@ -21,7 +21,7 @@ author: Francesco Visconti
 
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
+  Research:
     - Statement: "statement"
     - Publications: "publications"
   Teaching: "teaching"
