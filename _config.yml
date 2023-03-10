@@ -21,6 +21,9 @@ author: Francesco Visconti
 
 navbar-links:
   About Me: "aboutme"
+  Research:
+  Teaching:
+  CV:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -90,7 +93,6 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  instagram: true
   vk: false
 
 # How to display the link to your website in the footer
