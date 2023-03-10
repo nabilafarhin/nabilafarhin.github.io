@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Research
+title: research
 subtitle:
 ---
+
+
