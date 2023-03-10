@@ -7,7 +7,7 @@ subtitle:
 
 ## Academic Year 2022/2023
 
-- Adjunct Professor of [Data analysis](https://fviscontida.ariel.ctu.unimi.it/)  
+- Adjunct Professor of [Data analysis](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/data-analysis)  
   Bachelor degree [IPLE](https://iple.cdl.unimi.it/en).
 - Teaching Assistant [Sistemi Politici e Amministrativi](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2023/sistemi-politici-e-amministrativi)  
 Bachelor's degree [MAPS](https://maps.cdl.unimi.it/it).
