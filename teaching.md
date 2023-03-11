@@ -25,11 +25,11 @@ Bachelor's degree [MAPS](https://maps.cdl.unimi.it/it).
 
 - Adjunct Professor of **Data analysis**  
   Bachelor degree [IPLE](https://iple.cdl.unimi.it/en).
-- Teaching Assistant **Sistemi Politici e Amministrativi**
+- Teaching Assistant **Sistemi Politici e Amministrativi**  
   Bachelor degree [MAPS](https://maps.cdl.unimi.it/it).
 
 ## Academic Year 2019/2020
 
-- Adjunct Professor of **Data analysis**
+- Adjunct Professor of **Data analysis**  
   Bachelor degree [IPLE](https://iple.cdl.unimi.it/en).
 
