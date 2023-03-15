@@ -61,6 +61,8 @@ in Conti, N. and Marangoni F. _The challenge of coalition government: The Italia
 
 ### Media
 
+* Kyriazi, A., Visconti, F. (2023) Transnational experiences and solidarity: inclusion vs. inequality, _Eurac Science Blog_, [Available here](https://www.eurac.edu/en/blogs/mobile-people-and-diverse-societies/transnational-experiences-and-solidarity-inclusion-vs-inequality).
+
 * Kyriazi, A., Visconti, F. (2022) Trasnationalism fosters more engagement in European politics, _EuVisions_, [Available here](http://www.euvisions.eu/transnationalism-fosters-more-engagement-in-european-politics/).
 
 * Pellegata, A., Visconti, F. (2021), The electoral consequences of European solidarity, _LSE Blog EUROPP_, [Available here](https://blogs.lse.ac.uk/europpblog/2021/11/03/the-electoral-consequences-of-european-solidarity//).
