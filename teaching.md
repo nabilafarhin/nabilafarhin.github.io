@@ -15,7 +15,9 @@ Bachelor's degree [MAPS](https://maps.cdl.unimi.it/it).
 ## Academic Year 2021/2022
 
 - Adjunct Professor of **Data analysis**  
-  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en).
+  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en)  
+  [Evaluation](assets/pdf/evaluation-2021-2022.pdf)  
+  
 - Teaching Assistant **Comparative Politics**  
   Master degree: [EPS](https://eps.cdl.unimi.it/en).
 - Teaching Assistant **Sistemi Politici e Amministrativi**  
@@ -24,12 +26,16 @@ Bachelor's degree [MAPS](https://maps.cdl.unimi.it/it).
 ## Academic Year 2020/2021
 
 - Adjunct Professor of **Data analysis**  
-  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en).
+  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en)  
+  [Evaluation](assets/pdf/evaluation-2020-2021.pdf)  
+
 - Teaching Assistant **Sistemi Politici e Amministrativi**  
   Bachelor degree [MAPS](https://maps.cdl.unimi.it/it).
 
 ## Academic Year 2019/2020
 
 - Adjunct Professor of **Data analysis**  
-  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en).
+  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en)  
+  [Evaluation](assets/pdf/evaluation-2019-2020.pdf)  
+
 
