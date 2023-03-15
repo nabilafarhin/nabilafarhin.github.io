@@ -8,7 +8,7 @@ subtitle:
 ## Academic Year 2022/2023
 
 - Adjunct Professor of [Data analysis](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/data-analysis)  
-  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en)
+  Bachelor degree [IPLE](https://iple.cdl.unimi.it/en)  
   [Student's evaluation](assets/pdf/evaluation-2022-2023.pdf#page=14)  
   
 - Teaching Assistant [Sistemi Politici e Amministrativi](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2023/sistemi-politici-e-amministrativi)  
