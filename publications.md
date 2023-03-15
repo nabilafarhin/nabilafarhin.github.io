@@ -50,14 +50,14 @@ in Conti, N. and Marangoni F. _The challenge of coalition government: The Italia
 
 * Visconti, F. and Pellegata, A., European solidarity as a contested terrain after the crisis: a multidimensional approach.  Under review in **Status**: _Under revision after rejection_.
 
-* Pellegata, A. and Visconti, F., Who gets represented? MP-voters congruence on European solidarity in the core and periphery.  **Status**: _In preparation for submission_.
+* Pellegata, A. and Visconti, F., Who gets represented? MP-voters congruence on European solidarity in the core and periphery.  **Status**: _In preparation for first submission_.
 
 * Bernardi, L., Visconti, F., Sabate-Domingo, O. and Morales, L. Governing Status and Intra-Party Disagreement in Europe].  **Status**: _Under revision after rejection_.
 
 * Visconti, F., _A typology for the study of macro public opinion_.  **Status**: _in progress_.
 
 * Fiorelli, C., Visconti, F., and Bellucci, P., Follow the money. Policy outcomes and campaign financing in Italy.
-**Status**: _In progress.
+**Status**: _in progress_.
 
 ### Media
 
