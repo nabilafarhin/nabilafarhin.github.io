@@ -120,6 +120,9 @@ navbar-var-length: true
 # The keywords to associate with your website, for SEO purposes
 keywords: "political science, data analysis, European Union, public opinion"
 
+#Setting to show blog on a different page
+paginate_path: "/blog/page:num/"
+
 ######################################
 # --- Colours / background image --- #
 ######################################
