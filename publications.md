@@ -63,7 +63,8 @@ doi: [10.1080/03932729.2014.875831](http://dx.doi.org/10.1080/03932729.2014.8758
 * Visconti, F. and Pellegata, A., European solidarity as a contested terrain after the crisis: a multidimensional approach.  
 **Status**: _Under revision after rejection_.
 
-* Pellegata, A. and Visconti, F., Who gets represented? MP-voters congruence on European solidarity in the core and periphery.  **Status**: _In preparation for first submission_.
+* Pellegata, A. and Visconti, F., Who gets represented? MP-voters congruence on European solidarity in the core and periphery.  
+**Status**: _In preparation for first submission_.
 
 * Bernardi, L., Visconti, F., Sabate-Domingo, O. and Morales, L. Governing Status and Intra-Party Disagreement in Europe.   
 **Status**: _Under revision after rejection_.
