@@ -48,7 +48,8 @@ doi: [10.1080/03932729.2014.875831](http://dx.doi.org/10.1080/03932729.2014.8758
 
 ## Work in progress
 
-* Natili, M., and Visconti, F. The Russian invasion of Ukraine and the EU ‘trilemma’ between promoting energy security, ecological sustainability and equity.  **Status**: Under review in _Journal of European Public Policy_.
+* Natili, M., and Visconti, F. The Russian invasion of Ukraine and the EU ‘trilemma’ between promoting energy security, ecological sustainability and equity.   
+**Status**: Under review in _Journal of European Public Policy_.
 
 * Natili, M., Ronchi, S., Visconti, F. Invisible Social Europe? Linking citizens’ awareness of European Cohesion Funds, individual power resources and support for the EU.  
 **Status**: Under review in _Journal of European Social Policy_.
@@ -64,13 +65,13 @@ doi: [10.1080/03932729.2014.875831](http://dx.doi.org/10.1080/03932729.2014.8758
 
 * Pellegata, A. and Visconti, F., Who gets represented? MP-voters congruence on European solidarity in the core and periphery.  **Status**: _In preparation for first submission_.
 
-* Bernardi, L., Visconti, F., Sabate-Domingo, O. and Morales, L. Governing Status and Intra-Party Disagreement in Europe].  
+* Bernardi, L., Visconti, F., Sabate-Domingo, O. and Morales, L. Governing Status and Intra-Party Disagreement in Europe.   
 **Status**: _Under revision after rejection_.
 
 * Visconti, F., _A typology for the study of macro public opinion_.  
 **Status**: _in progress_.
 
-* Fiorelli, C., Visconti, F., and Bellucci, P., Follow the money. Policy outcomes and campaign financing in Italy.  
+* Fiorelli, C., Visconti, F., and Bellucci, P., Follow the money. Policy outcomes and campaign financing in Italy.   
 **Status**: _in progress_.
 
 ### Media
