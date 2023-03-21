@@ -77,39 +77,55 @@ doi: [10.1080/03932729.2014.875831](http://dx.doi.org/10.1080/03932729.2014.8758
 
 ### Media
 
-* Kyriazi, A., Visconti, F. (2023) Transnational experiences and solidarity: inclusion vs. inequality, _Eurac Science Blog_, [Available here](https://www.eurac.edu/en/blogs/mobile-people-and-diverse-societies/transnational-experiences-and-solidarity-inclusion-vs-inequality). doi: [10.57708/b147024799](https://doi.org/10.57708/b147024799).
+* Kyriazi, A., Visconti, F. (2023) Transnational experiences and solidarity: inclusion vs. inequality, _Eurac Science Blog_,  
+[Available here](https://www.eurac.edu/en/blogs/mobile-people-and-diverse-societies/transnational-experiences-and-solidarity-inclusion-vs-inequality). doi: [10.57708/b147024799](https://doi.org/10.57708/b147024799).
 
-* Kyriazi, A., Visconti, F. (2022) Trasnationalism fosters more engagement in European politics, _EuVisions_, [Available here](http://www.euvisions.eu/transnationalism-fosters-more-engagement-in-european-politics/).
+* Kyriazi, A., Visconti, F. (2022) Trasnationalism fosters more engagement in European politics, _EuVisions_,  
+[Available here](http://www.euvisions.eu/transnationalism-fosters-more-engagement-in-european-politics/).
 
-* Pellegata, A., Visconti, F. (2021), The electoral consequences of European solidarity, _LSE Blog EUROPP_, [Available here](https://blogs.lse.ac.uk/europpblog/2021/11/03/the-electoral-consequences-of-european-solidarity//).
+* Pellegata, A., Visconti, F. (2021), The electoral consequences of European solidarity, _LSE Blog EUROPP_,  
+[Available here](https://blogs.lse.ac.uk/europpblog/2021/11/03/the-electoral-consequences-of-european-solidarity//).
 
-* Kyriazi, A., Visconti, F. (2021), Trasnational citizens have more engagement with EU politics, _LSE Blog EUROPP_, [Available here](https://blogs.lse.ac.uk/europpblog/2021/10/20/transnational-citizens-have-more-engagement-with-eu-politics/).
+* Kyriazi, A., Visconti, F. (2021), Trasnational citizens have more engagement with EU politics, _LSE Blog EUROPP_,  
+[Available here](https://blogs.lse.ac.uk/europpblog/2021/10/20/transnational-citizens-have-more-engagement-with-eu-politics/).
 
-* Pellegata, A., Visconti, F. (2020), Sette su dieci dicono sì al governo. Da oggi il gioco si fa serio. _L'Economia - Corriere della Sera_, 4 May 2020. [Available here](https://www.pressreader.com/italy/l-economia/20200504/281595242696537).
+* Pellegata, A., Visconti, F. (2020), Sette su dieci dicono sì al governo. Da oggi il gioco si fa serio. _L'Economia - Corriere della Sera_, 4 May 2020.  
+[Available here](https://www.pressreader.com/italy/l-economia/20200504/281595242696537).
 
-* Visconti, F. (2019), From cosmopolitans to EUpolitans. Citizens' attitudes on welfare before and after Maastricht]. EuVisions, Available [Available here](http://www.euvisions.eu/from-cosmopolitans-to-eupolitcans-welfare-citizens-migrants-maastricht/).
+* Visconti, F. (2019), From cosmopolitans to EUpolitans. Citizens' attitudes on welfare before and after Maastricht. _EuVisions_,  
+[Available here](http://www.euvisions.eu/from-cosmopolitans-to-eupolitcans-welfare-citizens-migrants-maastricht/).
 
-* Visconti, F. (2019), To perceive and to believe: misperceptions about immigration and European solidarity]. _EuVisions_, [Available here](http://www.euvisions.eu/misperceptions-immigration-european-solidarity/).
+* Visconti, F. (2019), To perceive and to believe: misperceptions about immigration and European solidarity. _EuVisions_,  
+[Available here](http://www.euvisions.eu/misperceptions-immigration-european-solidarity/).
 
-* Pellegata, A., Visconti, F. (2018), The winners and losers of globalisations in the Italian elections]. _EuVisions_, [Available here](http://www.euvisions.eu/winners-globalisation-elections/).
+* Pellegata, A., Visconti, F. (2018), The winners and losers of globalisations in the Italian elections. _EuVisions_,  
+[Available here](http://www.euvisions.eu/winners-globalisation-elections/).
 
-* Pellegata, A., Visconti, F. (2018), Understanding the Italian vote: a matter of policy agendas. _EuVisions_, [Available here](http://www.euvisions.eu/italian-vote-policy-agenda/).
+* Pellegata, A., Visconti, F. (2018), Understanding the Italian vote: a matter of policy agendas. _EuVisions_,  
+[Available here](http://www.euvisions.eu/italian-vote-policy-agenda/).
 
-* Pellegata, A., Visconti, F. (2018), Brutti, sporchi e cattivi? Le ragioni dei perdenti della globalizzazione e del voto che cambia tutto. _L'Economia - Corriere della Sera_, 9 April 2018. [Available here](http://www.centroeinaudi.it/component/jdownloads/send/5-il-centro-sui-media/1514-brutti-sporchi-e-cattivi-le-ragioni-dei-perdenti-della-globalizzazione-e-del-voto-che-cambia-tutto.html?option=com_jdownloads).
+* Pellegata, A., Visconti, F. (2018), Brutti, sporchi e cattivi? Le ragioni dei perdenti della globalizzazione e del voto che cambia tutto. _L'Economia -  Corriere della Sera_, 9 April 2018.  
+[Available here](http://www.centroeinaudi.it/component/jdownloads/send/5-il-centro-sui-media/1514-brutti-sporchi-e-cattivi-le-ragioni-dei-perdenti-della-globalizzazione-e-del-voto-che-cambia-tutto.html?option=com_jdownloads).
 
 
 ## Other publications
 
-* Donati, N., Pellegata, A., Visconti, F. (2021), _European solidarity at a crossroads. Citizen views of the future of the European Union_, REScEU report. [Available here](http://www.euvisions.eu/wp-content/uploads/2021/10/mass_survey_report_2019-1.pdf).
+* Donati, N., Pellegata, A., Visconti, F. (2021), _European solidarity at a crossroads. Citizen views of the future of the European Union_, REScEU report.  
+[Available here](http://www.euvisions.eu/wp-content/uploads/2021/10/mass_survey_report_2019-1.pdf).
 
-* Visconti, F., Pellegata, A. (2019), _The REScEU 2019 Mass Survey Codebook_. REScEU Working Paper Series (ISSN 2531-9159), [Available here](https://resceu.eu/publications/working-papers/the-resceu-2019-mass-survey-codebook.html).
+* Visconti, F., Pellegata, A. (2019), _The REScEU 2019 Mass Survey Codebook_. REScEU Working Paper Series (ISSN 2531-9159),  
+[Available here](https://resceu.eu/publications/working-papers/the-resceu-2019-mass-survey-codebook.html).
 
-* Visconti, F. (2018) Attitudes towards the EU and solidarity. The REScEU ITANES survey Italian elections 2018], REScEU Working Paper Series (ISSN 2531-9159), Department of Social and Political Sciences, Università degli Studi di Milano, October 2018. [Available here](https://resceu.eu/publications/working-papers/wp-10-2018-attitudes-towards-eu-and-solidarity-resceu-working-paper-series.html).
+* Visconti, F. (2018) Attitudes towards the EU and solidarity. The REScEU ITANES survey Italian elections 2018], REScEU Working Paper Series (ISSN 2531-9159),   
+[Available here](https://resceu.eu/publications/working-papers/wp-10-2018-attitudes-towards-eu-and-solidarity-resceu-working-paper-series.html).
 
-* Visconti, F. (2018) A dimensional analysis of the four conflicts using REScEU 2016 mass survey attitudinal data], REScEU Working Paper Series (ISSN 2531-9159), Department of Social and Political Sciences, Università degli Studi di Milano, May 2018. [Available here](https://resceu.eu/publications/working-papers/wp-05-2018-a-dimensional-analysis-of-the-four-conflicts-using-receu-2016-mass-survey-attitudinal-data.html).
+* Visconti, F. (2018) A dimensional analysis of the four conflicts using REScEU 2016 mass survey attitudinal data], REScEU Working Paper Series (ISSN 2531-9159),  
+[Available here](https://resceu.eu/publications/working-papers/wp-05-2018-a-dimensional-analysis-of-the-four-conflicts-using-receu-2016-mass-survey-attitudinal-data.html).
 
-* Visconti, F. (2016), _ResponsiveGov Inter-Coders Reliability Documents_, University of Leicester: ResponsiveGov. [Available here](https://www.sciencespo.fr/centre-etudes-europeennes/en/responsivegov-eu/data/).
+* Visconti, F. (2016), _ResponsiveGov Inter-Coders Reliability Documents_, University of Leicester: ResponsiveGov.  
+[Available here](https://www.sciencespo.fr/centre-etudes-europeennes/en/responsivegov-eu/data/).
 
-* AA. VV. _La nuova classe politica in Europa_, CiRCAP Research News 2014, editor Luca Verzichelli, _Circap research News_, [Available here](https://www.circap.unisi.it/wp-content/uploads/sites/67/2022/07/circap_research_news_150914_web.pdf).
+* AA. VV. _La nuova classe politica in Europa_, CiRCAP Research News 2014, editor Luca Verzichelli, _Circap research News_,  
+[Available here](https://www.circap.unisi.it/wp-content/uploads/sites/67/2022/07/circap_research_news_150914_web.pdf).
 
 
