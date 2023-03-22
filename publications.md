@@ -17,10 +17,10 @@ _European Politics and Society_. doi: [10.1080/23745118.2022.2113631](https://do
 _European Union Politics_. doi: [10.1177/14651165211035054](https://doi.org/10.1177/14651165211035054)
     
 * Kyriazi, A., Visconti, F. (2021) The Europeanization of political involvement: Examining the role of individual transnationalism.  
-_Electoral Studies_, 73, doi:[10.1016/j.electstud.2021.102383.](https://doi.org/10.1016/j.electstud.2021.102383)
+_Electoral Studies_. doi: [10.1016/j.electstud.2021.102383.](https://doi.org/10.1016/j.electstud.2021.102383)
     
 * Visconti, F. Pellegata, A. (2021). Giudicare la performance del governo al tempo della COVID-19.  
-_Rivista Italiana di Politiche Pubbliche_, 2/2021, pp. 219-258, doi: [10.1483/101690](https://www.rivisteweb.it/doi/10.1483/101690)
+_Rivista Italiana di Politiche Pubbliche_. doi: [10.1483/101690](https://www.rivisteweb.it/doi/10.1483/101690)
     
 * Pellegata, A., Visconti, F. (2020). Transnationalism and Welfare Chauvinism in Italy: Evidence from the 2018 Election Campaign.  
 _South European Society & Politics_. doi: [10.1080/13608746.2020.1834214](https://doi.org/10.1080/13608746.2020.1834214).
@@ -32,7 +32,7 @@ _Italian Political Science_, vol. 14, n. (3), pp. 188-205. [Available here](http
  _Italian Political Science Review/Rivista Italiana Di Scienza Politica_. doi: [10.1017/ipo.2018.4](https://doi.org/10.1017/ipo.2018.4).
 	
 * Borghetto, E., Visconti, F. and Michieli, M. (2017) Government Agenda-Setting in Italian Coalitions. Testing the Partisan Hypothesis Using Italian Investiture Speeches 1979-2014.  
-_Rivista Italiana di Politiche Pubbliche_, 2/2017, 193-220, doi: [10.1483/87214](https://doi.org/10.1483/87214).
+_Rivista Italiana di Politiche Pubbliche_. doi: [10.1483/87214](https://doi.org/10.1483/87214).
 	
 
 ## Chapters
