@@ -29,7 +29,7 @@ _South European Society & Politics_. doi: [10.1080/13608746.2020.1834214](https:
 _Italian Political Science_, vol. 14, n. (3), pp. 188-205. [Available here](https://italianpoliticalscience.com/index.php/ips/article/view/117/89).
 	
  * Visconti, F. (2018). The legislative representation of public opinion policy priorities in Italy.  
- _Italian Political Science Review/Rivista Italiana Di Scienza Politica_. doi: [10.1017/ipo.2018.4](https://doi.org/10.1017/ipo.2018.4).
+ _Italian Political Science Review_. doi: [10.1017/ipo.2018.4](https://doi.org/10.1017/ipo.2018.4).
 	
 * Borghetto, E., Visconti, F. and Michieli, M. (2017) Government Agenda-Setting in Italian Coalitions. Testing the Partisan Hypothesis Using Italian Investiture Speeches 1979-2014.  
 _Rivista Italiana di Politiche Pubbliche_. doi: [10.1483/87214](https://doi.org/10.1483/87214).
