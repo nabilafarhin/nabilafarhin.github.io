@@ -116,10 +116,10 @@ doi: [10.1080/03932729.2014.875831](http://dx.doi.org/10.1080/03932729.2014.8758
 * Visconti, F., Pellegata, A. (2019), _The REScEU 2019 Mass Survey Codebook_. REScEU Working Paper Series (ISSN 2531-9159),  
 [Available here](https://resceu.eu/publications/working-papers/the-resceu-2019-mass-survey-codebook.html).
 
-* Visconti, F. (2018) Attitudes towards the EU and solidarity. The REScEU ITANES survey Italian elections 2018], REScEU Working Paper Series (ISSN 2531-9159),   
+* Visconti, F. (2018) Attitudes towards the EU and solidarity. The REScEU ITANES survey Italian elections 2018, REScEU Working Paper Series (ISSN 2531-9159),   
 [Available here](https://resceu.eu/publications/working-papers/wp-10-2018-attitudes-towards-eu-and-solidarity-resceu-working-paper-series.html).
 
-* Visconti, F. (2018) A dimensional analysis of the four conflicts using REScEU 2016 mass survey attitudinal data], REScEU Working Paper Series (ISSN 2531-9159),  
+* Visconti, F. (2018) A dimensional analysis of the four conflicts using REScEU 2016 mass survey attitudinal data, REScEU Working Paper Series (ISSN 2531-9159),  
 [Available here](https://resceu.eu/publications/working-papers/wp-05-2018-a-dimensional-analysis-of-the-four-conflicts-using-receu-2016-mass-survey-attitudinal-data.html).
 
 * Visconti, F. (2016), _ResponsiveGov Inter-Coders Reliability Documents_, University of Leicester: ResponsiveGov.  
