@@ -22,16 +22,16 @@ _Electoral Studies_, 73, doi:[10.1016/j.electstud.2021.102383.](https://doi.org/
 * Visconti, F. Pellegata, A. (2021). Giudicare la performance del governo al tempo della COVID-19.  
 _Rivista Italiana di Politiche Pubbliche_, 2/2021, pp. 219-258, doi: [10.1483/101690](https://www.rivisteweb.it/doi/10.1483/101690)
     
-* Pellegata, A., Visconti, F. (2020). Transnationalism and Welfare Chauvinism in Italy: Evidence from the 2018 Election Campaign].  
+* Pellegata, A., Visconti, F. (2020). Transnationalism and Welfare Chauvinism in Italy: Evidence from the 2018 Election Campaign.  
 _South European Society & Politics_. doi: [10.1080/13608746.2020.1834214](https://doi.org/10.1080/13608746.2020.1834214).
     
-* Visconti, F., Pellegata, A. (2020). Representation in hard times: party-voter distance on support for Social Europe in Italy].  
+* Visconti, F., Pellegata, A. (2020). Representation in hard times: party-voter distance on support for Social Europe in Italy.  
 _Italian Political Science_, vol. 14, n. (3), pp. 188-205. [Available here](https://italianpoliticalscience.com/index.php/ips/article/view/117/89).
 	
- * Visconti, F. (2018)  The legislative representation of public opinion policy priorities in Italy],  
+ * Visconti, F. (2018). The legislative representation of public opinion policy priorities in Italy.  
  _Italian Political Science Review/Rivista Italiana Di Scienza Politica_. doi: [10.1017/ipo.2018.4](https://doi.org/10.1017/ipo.2018.4).
 	
-* Borghetto, E., Visconti, F. and Michieli, M. (2017) Government Agenda-Setting in Italian Coalitions. Testing the Partisan Hypothesis Using Italian Investiture Speeches 1979--2014].  
+* Borghetto, E., Visconti, F. and Michieli, M. (2017) Government Agenda-Setting in Italian Coalitions. Testing the Partisan Hypothesis Using Italian Investiture Speeches 1979-2014.  
 _Rivista Italiana di Politiche Pubbliche_, 2/2017, 193-220, doi: [10.1483/87214](https://doi.org/10.1483/87214).
 	
 
@@ -49,25 +49,25 @@ doi: [10.1080/03932729.2014.875831](http://dx.doi.org/10.1080/03932729.2014.8758
 ## Work in progress
 
 * Natili, M., and Visconti, F. The Russian invasion of Ukraine and the EU ‘trilemma’ between promoting energy security, ecological sustainability and equity.   
-**Status**: _Under review in the Journal of European Public Policy_.
+**Status**: Under review in the _Journal of European Public Policy_.
 
 * Natili, M., Ronchi, S., Visconti, F. Invisible Social Europe? Linking citizens’ awareness of European Cohesion Funds, individual power resources and support for the EU.  
-**Status**: _Under review in the Journal of European Social Policy_.
+**Status**: Under review in the _Journal of European Social Policy_.
 
 * Kyriazi, A., Visconti, F. Emigration and welfare in the EU: the social consequences of the right to exit.  
-**Status**: _Under review in the International Migration Review_.
+**Status**: Under review in the _International Migration Review_.
 
 * Visconti, F. The electoral consequences of transnationalism in the 2019 European elections.  
-**Status**: _Under review in the Journal of Elections, Public Opinion and Parties_.
+**Status**: Under review in the _Journal of Elections, Public Opinion and Parties_.
 
 * Visconti, F. and Pellegata, A., European solidarity as a contested terrain after the crisis: a multidimensional approach.  
 **Status**: _Under revision after rejection_.
 
-* Pellegata, A. and Visconti, F., Who gets represented? MP-voters congruence on European solidarity in the core and periphery.  
-**Status**: _In preparation for first submission_.
-
 * Bernardi, L., Visconti, F., Sabate-Domingo, O. and Morales, L. Governing Status and Intra-Party Disagreement in Europe.   
 **Status**: _Under revision after rejection_.
+
+* Pellegata, A. and Visconti, F., Who gets represented? MP-voters congruence on European solidarity in the core and periphery.  
+**Status**: _In progress_.
 
 * Visconti, F., _A typology for the study of macro public opinion_.  
 **Status**: _In progress_.
